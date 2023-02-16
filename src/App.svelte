@@ -44,18 +44,18 @@
   <div id="get-started">How to get started</div>
   <div class="step1">Step 1: Download Ledger Nano X</div>
 
-<img src="https://cdn.shopify.com/s/files/1/2974/4858/products/01_4f10d168-302a-47b3-b79f-e0a6b6da7a48_large.png?v=1644216184" class="nanox" alt="nanox">
+<img src="https://cdn.shopify.com/s/files/1/2974/4858/products/01_4f10d168-302a-47b3-b79f-e0a6b6da7a48_large.png?v=1644216184" class="nanox" alt="nanox" loading="lazy" />
 
 
   <div class="step2">Step 2: Choose a payment plan</div>
-  <img src="https://treasure.lol/build/_assets/get-magic-3DRK4WHV.webp" class="stars" alt="stars">
+  <img src="https://treasure.lol/build/_assets/get-magic-3DRK4WHV.webp" class="stars" alt="stars" loading="lazy">
 
   <div class="step2">Step 3: Start trading!</div>
-  <img src="https://treasure.lol/build/_assets/Card_Community-OB3IGX2D.webp" class="stars" alt="stars">
+  <img src="https://treasure.lol/build/_assets/Card_Community-OB3IGX2D.webp" class="stars" alt="stars" loading="lazy">
 
   <h3>Streamline your operations with our advanced tooling!</h3>
 
-<img src="https://nuxt.com/assets/home/dx-plug-and-play-dark.svg" class="website" alt="websiteimg">
+<img src="https://nuxt.com/assets/home/dx-plug-and-play-dark.svg" class="website" alt="websiteimg" loading="lazy">
 
 
 <div class="top" on:click={scrollTop}>Click to get back to top</div>
