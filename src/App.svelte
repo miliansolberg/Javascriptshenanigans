@@ -1,7 +1,7 @@
 
 <script>
   import Testimonials from './lib/Testimonials.svelte';
-  import Navbar from './liv/Navbar.svelte';
+  import Navbar from './lib/Navbar.svelte';
 
   function scrollTop() {
     window.scrollTo({
