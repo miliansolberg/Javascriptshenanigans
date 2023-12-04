@@ -3,12 +3,8 @@
 </script>
 
 <nav>
-    <a href="/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png" class="logo" alt="logo">
-    </a>
   <ul>
     <li><a id="getstarted" href="/">Get started</a></li>
-    <li><a href="/">Login</a></li>
   </ul>
 </nav>
 
