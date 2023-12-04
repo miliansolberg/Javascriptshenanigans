@@ -20,7 +20,7 @@ html {
 }
 
 nav {
-  height: 8vh;
+  height: 2vh;
   width: 100%;
 }
 
