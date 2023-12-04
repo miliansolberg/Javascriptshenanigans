@@ -48,14 +48,14 @@
 
 
   <div class="step2">Step 2: Choose a payment plan</div>
-  <img src="assets/svelte.svg" class="stars" alt="svelte logo" loading="lazy">
+  <img src="./assets/supercomputer.webp" class="stars" alt="svelte logo" loading="lazy">
 
   <div class="step2">Step 3: Start trading!</div>
-  <img src="./assets/svelte.svg" class="stars" alt="svelte logo" loading="lazy">
+  <img src="/assets/supercomputer.webp" class="stars" alt="svelte logo" loading="lazy">
 
   <h3>Streamline your operations with our advanced tooling!</h3>
 
-<img src="/assets/svelte.svg" class="website" alt="svelte logo" loading="lazy">
+<img src="assets/supercomputer.webp" class="website" alt="svelte logo" loading="lazy">
 
 
 <div class="top" on:click={scrollTop}>Click to get back to top</div>
