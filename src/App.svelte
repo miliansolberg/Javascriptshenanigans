@@ -48,14 +48,14 @@
 
 
   <div class="step2">Step 2: Choose a payment plan</div>
-  <img src="https://treasure.lol/build/_assets/get-magic-3DRK4WHV.webp" class="stars" alt="stars" loading="lazy">
+  <img src="./assets/svelte.svg" class="stars" alt="svelte logo" loading="lazy">
 
   <div class="step2">Step 3: Start trading!</div>
-  <img src="https://treasure.lol/build/_assets/Card_Community-OB3IGX2D.webp" class="stars" alt="stars" loading="lazy">
+  <img src="./assets/svelte.svg" class="stars" alt="svelte logo" loading="lazy">
 
   <h3>Streamline your operations with our advanced tooling!</h3>
 
-<img src="https://nuxt.com/assets/home/dx-plug-and-play-dark.svg" class="website" alt="websiteimg" loading="lazy">
+<img src="./assets/svelte.svg" class="website" alt="svelte logo" loading="lazy">
 
 
 <div class="top" on:click={scrollTop}>Click to get back to top</div>
